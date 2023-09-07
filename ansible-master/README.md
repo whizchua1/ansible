@@ -1,14 +1,3 @@
-# Udemy Ansible Assignment
-
-This is a solution for the Ansible Assignment on Udemy https://www.udemy.com/learn-ansible-advanced
-
-This assignment tests the students knowledge on deploying a distributed web application on cloud using fully automated Ansible playbooks. The solution is shared to the instructor and student community using github repository and feedback will be given.
-
-**A full video demonstration of the solution is under development. Will update once ready.**
-
-## Solution
-Below is my solution to the problem. 
-
 ### Infrastructure 
  
 I chose Google Cloud Platform as I found it easiest to get started. I created a temporary account to get a $300 credit and utilized it as development environment.
